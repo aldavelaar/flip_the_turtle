@@ -5,7 +5,7 @@ You can create new tasks and view all of your activities at once, as well as che
 
 # Instructions:
 To access the help page, click HELP.
-To quit the program, click QUIT.
+To quit the program, click turtle with shades.
 To add a task, enter the appropriate information into the text boxes, then click ADD TASK.
 IMPORTANT: When you add a task, you are required to enter a description. You are not required to enter a date if you choose not to.
 To erase the text inside both text boxes, click CLEAR ENTRIES.
